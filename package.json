@@ -1,0 +1,23 @@
+{
+  "name": "headless-helper",
+  "version": "1.0.0",
+  "description": "help headless chrome easy via package chrome-laucher with callback",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chickyky/headless-helper.git"
+  },
+  "keywords": [
+    "chrome",
+    "headless"
+  ],
+  "author": "Chickyky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Chickyky/headless-helper/issues"
+  },
+  "homepage": "https://github.com/Chickyky/headless-helper#readme"
+}
